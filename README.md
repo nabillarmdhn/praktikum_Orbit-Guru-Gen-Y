@@ -1,2 +1,2 @@
-# praktikum_knn
-ini adalah praktiku knn orbit guru gen y
+#Latiahan coding ML di Orbit Guru Geny Y
+ini adalah praktikum python di orbit guru gen y
